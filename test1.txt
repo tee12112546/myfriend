@@ -1,0 +1,11 @@
+﻿<html>
+<head>
+<title>...</title>
+</head>
+<body>
+<table boder="1" width="98%" bordercolor="red">
+<tr> <td>.......</td>
+</tr>
+</table>
+</body>
+</html>

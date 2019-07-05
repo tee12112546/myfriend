@@ -1,0 +1,5 @@
+<TABLE width=200 bgcolor = #CCFF BORDER="2"
+
+<TR>
+<TD colspan="2">AB</TD><TD>C</TD>
+</TR>

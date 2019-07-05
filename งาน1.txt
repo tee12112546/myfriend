@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+<title>ยินดีต้อนรับเข้าสเว็บไซต์ของนายธีรภัทร  ซุยแป</title>
+</held>
+<body>
+<center><font face= "angsana new" size= "8" color="blue"> ประวัติส่วนตัว</font>  </center><br>
+<center><img src="p1.jpg"></center>
+<font size="2" color="#ff0000">ชื่อ นายธีรภัทร  ซุยแป</font><br>
+<font size="3" color="#ff5400">อายุ 15ปี</font><br>
+<font size="4" color="#ffb400">เพศ ชาย</font><br>
+<font size="5" color="#ffe400">สัตว์ที่ ชอบแมว</font><br>
+<font size="6" color="#c0ff00">กีฬาที่ชอบ เปตอง</font><br>
+<font size="7" color="#84ff00">อาหารที่ชอบ แฮมเบอเกอร์</font><br>
+<font size="8" color="#30ff00">สีที่ชอบ สีฟ้า</font><br>
+<font size="9" color="#00ff5a">อาชีพที่อยากเป็น โปรแกรมเมอร์</font><br>W
+<font size="10" color="#00ffae">ชื่อเล่น ตี๋น้อย</font><br>
+<font size="11" color="#00fcff">ชื่อบิดา นายรัตสดี ซุยแป</font><br>
+<font size="12"color="#00c0ff">ชือมารดา นางสาววรรณา ลาภเกิน</font><br>
+<font size="13" color="#008aff">ที่อยู่  21/1 หมู่5 ต.ท่าเจ้าสนุก อ.ท่าเรือ จ.พระนครศรีอยุธยา  13130</font><br>
+<font size="14" color="#004eff">โทรศัพท์  0643257735</font><br>
+<font size="15" color="#2400ff">สถานศึกษา โรงเรียนท่าเรือ "นิตยานุกูล"</font><br>
+<font size="16" color="#7e00ff">เข้าศึกษาระดับชั้นอนุบาล1 ที่โรงเรียนท่าเรือประชานุลูลจนถึงระดับชั้นอนุบาล3</font><br>
+<font size="17" color="#c600ff">และได้ทำการศึกษาต่อระดับชั้นประถมศึกษาที่1 ที่โรงเรียนเทศบาลท่าเรือประชานุกูล</font><br>
+<font size="18" color="#ff00f0">จนจบชั้นประถมศึกษาปีที่6 ที่โรงเรียนเทศบาลท่าเรือประชานุกูล</font><br>
+<font size="19" color="#ff00a2">เข้าศึกษาชั้นมัธยมศึกษาปีที่1 โรงเรียนท่าเรือ"นิตยานุกูล"</font><br>
+<font size="20" color="#ff005a">จนถึงชั้นมัธยมศึกษาปีที่3 โรงเรียนท่าเรีอ"นิตยานุกูล"</font><br>
+<font size="21" color="#bf6def">และศึษาต่อชั้นมัธยมศึษาปีที่4 โรงเรียนท่าเรือ"นิตยานุกูล"</font><br>
+</body>
+</html>
